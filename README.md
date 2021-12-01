@@ -1,4 +1,4 @@
-### *Wow, who's that sexy guy in that photo*
+### *Wow, who's that "sexy" guy*
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi)](https://github.com/mohouyizme/1337-readme)
 
 <br></br>
