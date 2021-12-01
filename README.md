@@ -10,8 +10,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amen-cmd&theme=onedark" alt="amen-cmd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_am_amine" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_amine?logo=twitter&style=for-the-badge" alt="i_am_amine" /></a> </p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/amen-cmd" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/amin_n" target="_blank">
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/amins_little_world" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://twitter.com/i_am_amine" target="blank">
+  <img src="https://img.shields.io/twitter/follow/i_am_amine?logo=twitter&style=for-the-badge" alt="i_am_amine" />
+  </a>
+</div>
+<br/>  
 
+## A little bit about me
 - 🔭 I’m currently working on **ft_printf**
 
 - 🌱 I’m currently learning **C *(in-depth)*, React, Django, and some other boring things**
@@ -80,4 +99,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
+## And finally
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+account.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day)](https://git.io/typing-svg)
