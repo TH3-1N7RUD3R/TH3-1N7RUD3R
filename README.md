@@ -1,3 +1,4 @@
+<!--
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mnaimi)](https://github.com/mohouyizme/1337-readme)
 
 ![Visitor Count](https://profile-counter.glitch.me/amen-cmd/count.svg)
@@ -8,3 +9,11 @@
 
 <a href="https://github.com/amen-cmd?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amen-cmd&line_height=40&show_icons=true&theme=dark">
+-->
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
