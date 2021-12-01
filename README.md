@@ -1,5 +1,5 @@
 
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mnaimi)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi)](https://github.com/mohouyizme/1337-readme)
 
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
 <h3 align="center">A passionate, curious junior developer, interested in everything</h3>
@@ -123,3 +123,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amen-cmd&" alt="amen-cmd" />
 </p>
+
+**Before you go, here's a little joke to cheer you up:**
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
