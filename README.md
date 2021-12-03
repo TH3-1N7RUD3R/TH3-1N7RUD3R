@@ -1,4 +1,4 @@
-### *Wow, who's that "sexy" guy*
+### *Wow, who's that VERY "sexy" guy*
 <div align="center">
 <a href="https://github.com/mohouyizme/1337-readme" target="blank">
     <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi" alt="42 Profile Card" />
