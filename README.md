@@ -1,7 +1,13 @@
 ### *Wow, who's that "sexy" guy*
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi)](https://github.com/mohouyizme/1337-readme)
-
-<br></br>
+<div align="center">
+<a href="https://github.com/mohouyizme/1337-readme" target="blank">
+    <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi" alt="42 Profile Card" />
+  </a>
+  <a href="https://stackoverflow.com/users/13571015/i-am-amin" target="blank">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=13571015&theme=dark" alt="stack-overflow_stats" />
+  </a>
+</div>
+<br/>
 
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
 <h3 align="center">A passionate, curious junior developer, interested in everything</h3>
@@ -26,9 +32,11 @@
 </a>  
 <a href="https://twitter.com/i_am_amine" target="blank">
   <img src="https://img.shields.io/twitter/follow/i_am_amine?logo=twitter&style=for-the-badge" alt="i_am_amine" />
-  </a>
+</a>
+  
 </div>
-<br/>  
+<br/> 
+
 
 ## A little bit about me
 - 🔭 I’m currently working on **ft_printf**
