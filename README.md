@@ -2,19 +2,15 @@
 <div align="center">
 <a href="https://github.com/mohouyizme/1337-readme" target="blank">
     <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi" alt="42 Profile Card" />
-  </a>
-  <a href="https://stackoverflow.com/users/13571015/i-am-amin" target="blank">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=13571015&theme=dark" alt="stack-overflow_stats" />
-  </a>
+    </a>
 </div>
 <br/>
 
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
 <h3 align="center">A passionate, curious junior developer, interested in everything</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amen-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="amen-cmd" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amen-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="amen-cmd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amen-cmd&theme=onedark" alt="amen-cmd" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amen-cmd&theme=onedark" alt="amen-cmd" /></a> </p>
 
 ## Connect with me  
 <div align="center">
