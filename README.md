@@ -45,12 +45,12 @@
 - 📫 How to reach me **mnaimi@student.1337.ma**
 
 - ⚡ Fun fact **I prefer "Tab" indentations over "Space" ones. Change my mind !!**
-<!--
+
 <br></br>
 ## Meme Checkpoint:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
--->
-## My Skill Set  
+
+## My Skill Set *(more like a bucket-list)*
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -102,5 +102,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
-## And finally
+<!--## And finally-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+account.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day)](https://git.io/typing-svg)
