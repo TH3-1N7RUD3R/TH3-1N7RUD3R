@@ -34,7 +34,7 @@
 
 
 ## A little bit about me
-- 🔭 I’m currently working on **born2beroot**
+- 🔭 I’m currently working on **some random C programs**
 
 - 🌱 I’m currently learning **C *(in-depth)*, React, Django, and some other boring things**
 
