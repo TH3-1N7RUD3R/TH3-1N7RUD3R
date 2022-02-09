@@ -1,8 +1,5 @@
-<div align="center">
-<a href="https://github.com/mohouyizme/1337-readme" target="blank">
-    <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mnaimi" alt="42 Profile Card" />
-    </a>
-</div>
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 <br/>
 
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
@@ -13,7 +10,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/amen-cmd" target="_blank">
+<a href="https://github.com/The-Intruder" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/https://dev.to/amin_n" target="_blank">
