@@ -1,7 +1,13 @@
 <!-- Umm, I don't think you should be here, but suit yourself anyways -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+<div align="center">
+  <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
+    <img src="https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=42cursus" alt=42-Card />
+  </a>
+  <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
+    <img src="https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=C%20Piscine" alt=42-Card />
+  </a>
+</div>
 <br/>
 
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
