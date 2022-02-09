@@ -1,6 +1,6 @@
 <!-- Umm, I don't think you should be here, but suit yourself anyways -->
 
-<div align="center" style="justify-content: center;align-items: center;">
+<div align="center">
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
     <img src="https://badge42.herokuapp.com/api/stats/mnaimi?darkmode=true&cursus=42cursus" alt=42-Card />
   </a>
