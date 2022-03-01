@@ -4,9 +4,11 @@
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
     <img src="https://badge42.herokuapp.com/api/stats/mnaimi?cursus=42cursus" alt=42-Card />
   </a>
+  <!--
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
     <img src="https://badge42.herokuapp.com/api/stats/mnaimi?cursus=C%20Piscine" alt=42-Card />
   </a>
+  -->
 </div>
 <br/>
 
