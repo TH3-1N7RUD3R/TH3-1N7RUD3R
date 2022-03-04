@@ -52,10 +52,7 @@
 - 📫 How to reach me **mnaimi@student.1337.ma**
 
 - ⚡ Fun fact **I prefer "Tab" indentations over "Space" ones. Change my mind !!**
-
 <br></br>
-## Meme Checkpoint:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ## My Skill Set *(more like a bucket-list)*
 <table><tr><td valign="top" width="33%">
