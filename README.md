@@ -1,5 +1,4 @@
 <!-- Umm, I don't think you should be here, but suit yourself anyways -->
-![gitartwork](gitartwork.svg)
 <br></br>
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
