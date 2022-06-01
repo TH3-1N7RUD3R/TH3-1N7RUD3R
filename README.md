@@ -1,24 +1,4 @@
 <!-- Umm, I don't think you should be here, but suit yourself anyways -->
-<br></br>
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/mnaimi" alt="mnaimi's 42 stats" />
-  </a>
-<!--   <a href="https://github.com/JaeSeoKim/badge42">
-    <img 
-         src="https://badge42.vercel.app/api/v2/cl1txsvi6008009jppddlp1hr/stats?cursusId=21&coalitionId=75" 
-         alt="mnaimi's 42 stats"
-     />
-  </a> -->
-  <!--
-  <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
-    <img src="https://badge42.herokuapp.com/api/stats/mnaimi?cursus=C%20Piscine" alt=42-Card />
-  </a>
-  -->
-</div>
-<br/>
-
 <h1 align="center">Hi 👋, I'm Amine <i>(spelled a-meen)</i></h1>
 <h3 align="center">A passionate, curious junior developer, interested in everything</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Intruder&label=Profile%20views&color=0e75b6&style=flat" alt="The-Intruder" /> </p>
