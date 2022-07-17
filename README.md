@@ -28,17 +28,17 @@
 
 
 ## A little bit about me
-- 🔭 I’m currently working on **some random C programs**
+- 🔭 I’m currently working on **some random C/C++ programs**
 
-- 🌱 I’m currently learning **C *(in-depth)*, React, Django, and some other boring things**
+- 🌱 I’m currently learning **C/C++ *(in-depth)*, React, Django, and some other boring things**
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/The-Intruder?tab=repositories)
 
-- 💬 Ask me about **C, Python, JavaScript**
+- 💬 Ask me about **C, C++, Python, JavaScript**
 
 - 📫 How to reach me **mnaimi@student.1337.ma**
 
-- ⚡ Fun fact **I prefer "Tab" indentations over "Space" ones. Change my mind !!**
+- ⚡ Fun fact **I prefer "Space" indentations over "Tab" ones. Change my mind !!**
 <br></br>
 
 
