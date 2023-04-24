@@ -1,10 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=the-intruder&label=Profile%20views&color=0e75b6&style=flat" alt="the-intruder" /> </p>
 <h1 align="center">Hi 👋, I'm Amine</h1>  
 <h3 align="center">A rigourous developer eager to learn a bit about everything that's IT related</h3>  
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote-of-the-day" /> </p>  
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-intruder" alt="the-intruder" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-intruder&row=1&column=6" alt="the-intruder" /></a> </p>  
   
 - 🔭 I’m currently working on **an IRC Server made with C++**  
   
