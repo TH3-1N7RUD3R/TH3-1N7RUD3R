@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=the-intruder&label=Profile%20views&color=0e75b6&style=flat" alt="the-intruder" /> </p>
-<br/>
 <h1 align="center">Hi 👋, I'm Amine</h1>  
 <h3 align="center">A rigourous developer eager to learn a bit about everything that's IT related</h3>  
 
@@ -26,26 +25,26 @@
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
   
 <h3 align="left"> Connect with me: </h3>
-<table>
+<table style="border:none;border-collapse:collapse;">
   <tr>
-    <td>
-      <a href="https://twitter.com/i_am_amine" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="i_am_amine"/>
-      </a>
-    </td>
     <td>
       <a href="https://linkedin.com/in/linkedin.com/in/mohamed-amine-naimi-1b1263235" target="blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/mohamed-amine-naimi-1b1263235"/>
       </a>
     </td>
     <td>
-      <a href="https://stackoverflow.com/users/i_am_amin" target="blank">
-        <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
+      <a href="https://twitter.com/i_am_amine" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="i_am_amine"/>
       </a>
     </td>
     <td>
       <a href="https://instagram.com/i_am_amine11" target="blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="i_am_amine11"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/ReyDel#4234" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234"/>
       </a>
     </td>
     <td>
@@ -55,12 +54,12 @@
     </td>
     <td>
       <a href="https://discord.gg/ReyDel#4234" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234"/>
+        <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/>
       </a>
     </td>
     <td>
-      <a href="https://discord.gg/ReyDel#4234" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/>
+      <a href="https://stackoverflow.com/users/i_am_amin" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
       </a>
     </td>
   </tr>
@@ -68,7 +67,7 @@
 
 <h3 align="left"> Languages and Tools: </h3>
   <h4 align="left"> Programming Languages: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -98,7 +97,7 @@
     </tr>
   </table>
   <h4 align="left"> Front-End Development: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -138,7 +137,7 @@
     </tr>
   </table>
   <h4 align="left"> Back-End Development: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -163,7 +162,7 @@
     </tr>
   </table>
   <h4 align="left"> Databases: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -188,7 +187,7 @@
     </tr>
   </table>
   <h4 align="left"> DevOps: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -203,7 +202,7 @@
     </tr>
   </table>
   <h4 align="left"> Softwares: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -218,7 +217,7 @@
     </tr>
   </table>
   <h4 align="left"> Other: </h4>
-  <table>
+  <table style="border:none;border-collapse:collapse;">
     <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -236,9 +235,9 @@
   <p> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
   </p>
   <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=the-intruder&" alt="the-intruder" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact" alt="the-intruder" />
   </p>
   <br/>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact" alt="the-intruder" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-intruder&" alt="the-intruder" />
   </p>
