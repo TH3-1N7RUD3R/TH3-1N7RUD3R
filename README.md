@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote-of-the-day" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-intruder" alt="the-intruder" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-intruder" alt="the-intruder" /></a> </p>  
   
 - 🔭 I’m currently working on **an IRC Server made with C++**  
   
@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
   
 <h3 align="left"> Connect with me: </h3>
-<table style="border:none;">
+<table border="0">
   <tr>
     <td>
       <a href="https://linkedin.com/in/linkedin.com/in/mohamed-amine-naimi-1b1263235" target="blank">
@@ -67,7 +67,7 @@
 
 <h3 align="left"> Languages and Tools: </h3>
   <h4 align="left"> Programming Languages: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -97,7 +97,7 @@
     </tr>
   </table>
   <h4 align="left"> Front-End Development: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -137,7 +137,7 @@
     </tr>
   </table>
   <h4 align="left"> Back-End Development: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -162,7 +162,7 @@
     </tr>
   </table>
   <h4 align="left"> Databases: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -187,7 +187,7 @@
     </tr>
   </table>
   <h4 align="left"> DevOps: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -202,7 +202,7 @@
     </tr>
   </table>
   <h4 align="left"> Softwares: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -217,7 +217,7 @@
     </tr>
   </table>
   <h4 align="left"> Other: </h4>
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
