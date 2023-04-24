@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
   
 <h3 align="left"> Connect with me: </h3>
-<table border="0">
+<table border="0" style="border:none;">
   <tr>
     <td>
       <a href="https://linkedin.com/in/linkedin.com/in/mohamed-amine-naimi-1b1263235" target="_blank">
@@ -72,7 +72,7 @@
 
 <h3 align="left"> Languages and Tools: </h3>
   <h4 align="left"> Programming Languages: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -102,7 +102,7 @@
     </tr>
   </table>
   <h4 align="left"> Front-End Development: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -137,7 +137,7 @@
     </tr>
   </table>
   <h4 align="left"> Back-End Development: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -162,7 +162,7 @@
     </tr>
   </table>
   <h4 align="left"> Databases: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -187,7 +187,7 @@
     </tr>
   </table>
   <h4 align="left"> DevOps: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -202,7 +202,7 @@
     </tr>
   </table>
   <h4 align="left"> Softwares: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -217,7 +217,7 @@
     </tr>
   </table>
   <h4 align="left"> Other: </h4>
-  <table border="0">
+  <table border="0" style="border:none;">
     <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
