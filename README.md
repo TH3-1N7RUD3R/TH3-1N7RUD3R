@@ -21,8 +21,8 @@
 - 📄 Know about my experiences [https://example.com](https://example.com)  _(Coming Soon)_
   
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
-  
-<h3 align="left"> Connect with me: </h3>
+
+<h2 align="left"> Connect with me: </h2>
     <a href="https://linkedin.com/in/mohamed-amine-naimi-1b1263235" target="_blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-amine-naimi-1b1263235"/>
     </a>
@@ -49,7 +49,8 @@
     <a href="https://stackoverflow.com/users/i_am_amin" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
     </a>
-<h3 align="left"> Languages and Tools: </h3>
+  <br/>
+<h2 align="left"> Languages and Tools: </h2>
   <h4 align="left"> Programming Languages: </h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
