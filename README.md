@@ -37,6 +37,7 @@
     <a href="https://discord.gg/ReyDel#4234" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234"/>
     </a>
+    <br/>
     <a href="https://codeforces.com/profile/7h3_1n7rud3r" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="7h3_1n7rud3r"/>
     </a>
@@ -132,7 +133,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
         </a>
-
+<br/>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
   </p>
