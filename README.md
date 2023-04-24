@@ -1,13 +1,11 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=the-intruder&label=Profile%20views&color=0e75b6&style=flat" alt="the-intruder" /> </p>
+<br/>
 <h1 align="center">Hi 👋, I'm Amine</h1>  
 <h3 align="center">A rigourous developer eager to learn a bit about everything that's IT related</h3>  
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-intruder&label=Profile%20views&color=0e75b6&style=flat" alt="the-intruder" /> </p>  
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote-of-the-day" /> </p>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-intruder" alt="the-intruder" /></a> </p>  
-  
-<p align="left"> <a href="https://twitter.com/i_am_amine" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_amine?logo=twitter&style=for-the-badge" alt="i_am_amine" /></a> </p>  
   
 - 🔭 I’m currently working on **an IRC Server made with C++**  
   
@@ -32,41 +30,37 @@
   <tr>
     <td>
       <a href="https://twitter.com/i_am_amine" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="i_am_amine" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="i_am_amine"/>
       </a>
     </td>
     <td>
       <a href="https://linkedin.com/in/linkedin.com/in/mohamed-amine-naimi-1b1263235" target="blank">
-        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/mohamed-amine-naimi-1b1263235" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/mohamed-amine-naimi-1b1263235"/>
       </a>
     </td>
     <td>
       <a href="https://stackoverflow.com/users/i_am_amin" target="blank">
-        <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://instagram.com/i_am_amine11" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="i_am_amine11" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="i_am_amine11"/>
       </a>
     </td>
     <td>
       <a href="https://codeforces.com/profile/https://codeforces.com/profile/7h3_1n7rud3r" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/7h3_1n7rud3r" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/7h3_1n7rud3r"/>
       </a>
     </td>
     <td>
       <a href="https://discord.gg/ReyDel#4234" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234"/>
       </a>
     </td>
-  </tr>
-  <tr>
-      <td>
+    <td>
       <a href="https://discord.gg/ReyDel#4234" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/>
       </a>
     </td>
   </tr>
@@ -239,11 +233,12 @@
     </tr>
   </table>
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact" alt="the-intruder" />
-  </p>
-  <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
+  <p> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
   </p>
   <p>
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=the-intruder&" alt="the-intruder" />
+  </p>
+  <br/>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact" alt="the-intruder" />
   </p>
