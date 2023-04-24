@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **an IRC Server made with C++**  
   
-- 🌱 I’m currently learning **Python, C/C++, Typescript, Nest.js, Next.js, Django**  
+- 🌱 I’m currently learning **Python, C/C++, Typescript, Nest.js, React.js, Django**  
   
 - 👯 I’m looking to collaborate on **any project you would like** ***(i'm open to suggestions)***  
   
@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
   
 <h3 align="left"> Connect with me: </h3>
-<table style="border:none;border-collapse:collapse;">
+<table style="border:none;">
   <tr>
     <td>
       <a href="https://linkedin.com/in/linkedin.com/in/mohamed-amine-naimi-1b1263235" target="blank">
@@ -67,7 +67,7 @@
 
 <h3 align="left"> Languages and Tools: </h3>
   <h4 align="left"> Programming Languages: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -97,7 +97,7 @@
     </tr>
   </table>
   <h4 align="left"> Front-End Development: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -137,7 +137,7 @@
     </tr>
   </table>
   <h4 align="left"> Back-End Development: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -162,7 +162,7 @@
     </tr>
   </table>
   <h4 align="left"> Databases: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -187,7 +187,7 @@
     </tr>
   </table>
   <h4 align="left"> DevOps: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -202,7 +202,7 @@
     </tr>
   </table>
   <h4 align="left"> Softwares: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -217,7 +217,7 @@
     </tr>
   </table>
   <h4 align="left"> Other: </h4>
-  <table style="border:none;border-collapse:collapse;">
+  <table style="border:none;">
     <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -232,12 +232,13 @@
     </tr>
   </table>
 
-  <p> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
+  <p>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-intruder&" alt="the-intruder" />
   </p>
   <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact" alt="the-intruder" />
   </p>
   <br/>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-intruder&" alt="the-intruder" />
+  <br/>
+  <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-intruder&show_icons=true&locale=en" alt="the-intruder" />
   </p>
