@@ -23,6 +23,7 @@
 - ⚡ Fun fact **I prefer Space indentations over Tab ones :)**  
 
 <h2 align="left"> Connect with me: </h2>
+<h4 align="left"> Socials: </h4>
     <a href="https://linkedin.com/in/mohamed-amine-naimi-1b1263235" target="_blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-amine-naimi-1b1263235"/>
     </a>
@@ -35,8 +36,13 @@
     <a href="https://discord.gg/ReyDel#4234" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ReyDel#4234"/>
     </a>
+    <a href="https://stackoverflow.com/users/i_am_amin" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
+    </a>
     <br/>
-    <br/>
+    <h4 align="left"> Coding platforms: </h4>
+    <a href="https://leetcode.com/The-Intruder/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="7H3_1NTRUD3R"/>
     <a href="https://codeforces.com/profile/7h3_1n7rud3r" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="7h3_1n7rud3r"/>
     </a>
@@ -46,9 +52,8 @@
     <a href="https://www.codingame.com/profile/a21510da90be61cabb4fcd90b96a18d94275784" target="_blank">
       <img align="center" src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black" alt="7H3_1NTRUD3R"/>
     </a>
-    <a href="https://stackoverflow.com/users/i_am_amin" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="i_am_amin"/>
-    </a>
+
+  <br/>
   <br/>
 <h2 align="left"> Languages and Tools: </h2>
   <h4 align="left"> Programming Languages: </h4>
@@ -67,6 +72,7 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
         </a>
+  <br/>
   <h4 align="left"> Front-End Development: </h4>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
@@ -86,6 +92,7 @@
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
         </a>
+  <br/>
   <h4 align="left"> Back-End Development: </h4>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
@@ -99,6 +106,7 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
         </a>
+  <br/>
   <h4 align="left"> Databases: </h4>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
@@ -112,6 +120,7 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
         </a>
+  <br/>
   <h4 align="left"> DevOps: </h4>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
@@ -119,6 +128,7 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
         </a>
+  <br/>
   <h4 align="left"> Softwares: </h4>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
@@ -126,6 +136,7 @@
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
         </a>
+  <br/>
   <h4 align="left"> Other: </h4>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
