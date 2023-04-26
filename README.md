@@ -42,12 +42,12 @@
     <br/>
     <h4 align="left"> Coding platforms: </h4>
     <a href="https://leetcode.com/The-Intruder/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="7H3_1NTRUD3R"/>
+      <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="The-Intruder"/>
     <a href="https://codeforces.com/profile/7h3_1n7rud3r" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="7h3_1n7rud3r"/>
     </a>
     <a href="https://www.codewars.com/users/Christo69" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Christo69"/>
+      <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Christo69"/>
     </a>
     <a href="https://www.codingame.com/profile/a21510da90be61cabb4fcd90b96a18d94275784" target="_blank">
       <img align="center" src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black" alt="7H3_1NTRUD3R"/>
