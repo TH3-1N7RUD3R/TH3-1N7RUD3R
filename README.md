@@ -8,7 +8,6 @@
 <h3 align="center">
   A rigourous developer eager to learn a bit about everything that's IT related
 </h3>
-
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=the-intruder&row=1&column=6"
@@ -17,7 +16,7 @@
 </p>
 <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=the-intruder&show_icons=true&locale=en&hide_progress=true"
       alt="the-intruder"
     />
 </p>
