@@ -27,15 +27,15 @@
 
 - 👯 I’m looking to collaborate on **any project you would like** ***(i'm open to suggestions)***
 
-- 👨‍💻 All of my projects are available at  [https://example.com](https://example.com)  _(Coming Soon)_
+- 👨‍💻 All of my projects are available at  [**theintruder.tech/portfolio**](https://theintruder.tech/portfolio/)
 
-- 📝 I regularly write articles on  [https://example.com](https://example.com)  _(Coming Soon)_ 
+- 📝 I regularly write articles on  [**theintruder.tech/articles**](https://theintruder.tech/articles/)
 
 - 💬 Ask me about **C/C++, Python, JavaScript**
 
 - 📫 How to reach me **aminnaimi@hotmail.fr**
 
-- 📄 Know about my experiences [https://example.com](https://example.com) _(Coming Soon)_
+- 📄 Know about my experiences [**theintruder.tech/about-me**](https://theintruder.tech/about-me/)
   
 - ⚡ Fun fact **I prefer Space indentations over Tab ones** 
 
