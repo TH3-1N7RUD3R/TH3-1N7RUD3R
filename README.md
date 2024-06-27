@@ -21,21 +21,21 @@
     />
 </p>
 
-- 🔭 I’m currently working on **an IRC Server made with C++**
+- 🔭 I’m currently working on **a lot of things *(I know ... ADHD lol)***
 
-- 🌱 I’m currently learning **Python, C/C++, Typescript, Nest.js, React.js, Django**
+- 🌱 I’m currently learning **Python, C/C++, Typescript, Nest.js, React.js, Django, *(and a lot of other things)***
 
 - 👯 I’m looking to collaborate on **any project you would like** ***(i'm open to suggestions)***
 
-- 👨‍💻 All of my projects are available at  [**my Blog's Portfolio page**](https://uvw.is-a.dev/portfolio/) as well as [**my Github's Repos page**](https://github.com/The-Intruder?tab=repositories)
+- 👨‍💻 All of my projects are available at  [**my Blog's Portfolio page**](https://blog.uvw.is-a.dev/portfolio/) as well as [**my Github's Repos page**](https://github.com/The-Intruder?tab=repositories)
 
-- 📝 I regularly write articles on  [**my Blog**](https://uvw.is-a.dev/)
+- 📝 I regularly write articles on  [**my Blog**](https://blog.uvw.is-a.dev/)
 
-- 💬 Ask me about **C/C++, Python, JavaScript**
+- 💬 Ask me about **C/C++, Python, JavaScript, CyberSec**
 
 - 📫 How to reach me **aminnaimi@hotmail.fr**
 
-- 📄 Know about my experiences [**my Blog's About-Me page**](https://uvw.is-a.dev/about-me/)
+- 📄 Know about my experiences [**my Blog's About-Me page**](https://blog.uvw.is-a.dev/about-me/)
   
 - ⚡ Fun fact **I prefer Space indentations over Tab ones** 
 
